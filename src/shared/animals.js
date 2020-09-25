@@ -7,15 +7,15 @@ export const ANIMALS = [
     },
     {
         id : 1,
-        title : 'Briedis',
+        title : 'Lape',
         image : 'assets/images/iua.jpg', 
-        desc : 'Raguotas briedis is misko'
+        desc : 'Ilgauodege lape is girios'
     },
     {
         id : 2,
-        title : 'Lape',
+        title : 'Briedis',
         image : 'assets/images/ius.jpg', 
-        desc : 'Ilgauodege lape is girios'
+        desc : 'Raguotas briedis is misko'
     }
 
 
